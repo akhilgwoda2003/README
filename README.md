@@ -39,7 +39,7 @@ Ubuntu, Oracle Virtual Machine and packages needed are Yosys,gtkwave,iverilog,Op
   
   Iverilog is been installed
   <br>
-  ![iverilog](https://github.com/KumarKarthikeya/VLSI-VSD/assets/72381320/f683573b-262c-47a3-8c26-39d73d59114a)
+  ![iverilog](https://github.com/akhilgwoda2003/README/assets/146440570/9c0f651b-0c50-4b40-941d-7b4816df491d)
 
 </details>
 

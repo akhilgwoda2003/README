@@ -18,7 +18,7 @@ Ubuntu, Oracle Virtual Machine and packages needed are Yosys,gtkwave,iverilog,Op
   
   Installed all required Softwares for the project.
   <br>
-  ![WhatsApp Image 2024-04-11 at 12 43 15 PM](https://github.com/akhilgwoda2003/README/assets/146440570/99e80222-e1d9-4429-b51e-aaa3c5851363)
+  ![yosys](https://github.com/akhilgwoda2003/README/assets/146440570/99e80222-e1d9-4429-b51e-aaa3c5851363)
 
 
 </details>
@@ -29,7 +29,7 @@ Ubuntu, Oracle Virtual Machine and packages needed are Yosys,gtkwave,iverilog,Op
   
   gtkwave has also been installed using when insatlling the git file of VSD Open source EDA tools
   <br>
-  ![gtkwave](https://github.com/KumarKarthikeya/VLSI-VSD/assets/72381320/b8e36f86-86c9-46b0-a7dd-42a560e43e0f)
+  ![gtkwave]!(https://github.com/akhilgwoda2003/README/assets/146440570/b320bb26-5d6e-4e9f-94fa-16e9d5c2cfd7)
 
 </details>
 

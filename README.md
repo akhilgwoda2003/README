@@ -143,13 +143,13 @@ Check the Gtkwave for the design
    
   <code> git clone https://github.com/ishan-desai64/iiitb_cps.git</code>
   <br>
-  ![git cline](https://github.com/akhilgwoda2003/README/assets/146440570/e6d1eb2e-ec60-434f-8775-82bbaef7ea4e)
+  [git cline](https://github.com/akhilgwoda2003/README/assets/146440570/e6d1eb2e-ec60-434f-8775-82bbaef7ea4e)
 
   Invoking yosys inside iiitb_cps file
   
 <code>yosys</code>
 <br>
-![yosys real](https://github.com/KumarKarthikeya/VLSI-VSD/assets/72381320/9bde156a-1558-462d-879d-6e667e4c7501)
+  ![WhatsApp Image 2024-04-11 at 12 43 15 PM (2)](https://github.com/akhilgwoda2003/README/assets/146440570/e6d1eb2e-ec60-434f-8775-82bbaef7ea4e)
 
 Reading the Library:
 

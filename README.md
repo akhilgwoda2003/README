@@ -143,7 +143,7 @@ Check the Gtkwave for the design
    
   <code> git clone https://github.com/ishan-desai64/iiitb_cps.git</code>
   <br>
-  ![git cline](https://github.com/KumarKarthikeya/VLSI-VSD/assets/72381320/ce399d34-1943-420e-8b48-fcc6641e7dd0)
+  ![git cline](https://github.com/akhilgwoda2003/README/assets/146440570/e6d1eb2e-ec60-434f-8775-82bbaef7ea4e)
 
   Invoking yosys inside iiitb_cps file
   

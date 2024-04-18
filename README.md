@@ -207,14 +207,3 @@ Gtkwave of the netlist:
 
 </details>
 
-<details>
- <summary> Certificate of Internship Completion </summary>
-  
-  <br>
-  
-  ![vsd internship](https://github.com/KumarKarthikeya/VLSI-VSD/assets/72381320/1d116ce8-bea9-4bb8-9878-76c360868ef5)
-
-
-[VSD Internship certificate.pdf](https://github.com/KumarKarthikeya/VLSI-VSD/files/14692988/VSD.Internship.certificate.pdf)
-
-</details>

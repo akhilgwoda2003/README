@@ -58,7 +58,7 @@ Ubuntu, Oracle Virtual Machine and packages needed are Yosys,gtkwave,iverilog,Op
 
   RTL and TB files
   <br>
-  (https://github.com/akhilgwoda2003/README/assets/146440570/b994aff9-3a2d-4f70-867b-d7f3d059c7b7)
+ ![ RTL and TB ] (https://github.com/akhilgwoda2003/README/assets/146440570/b994aff9-3a2d-4f70-867b-d7f3d059c7b7)
 
 
   Basis of functional simulation
